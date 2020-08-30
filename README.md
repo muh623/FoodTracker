@@ -1,1 +1,1 @@
-# -FoodTracker
+# FoodTracker
